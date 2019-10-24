@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  flixster
 //
-//  Created by  Nehemiah Israel a on 2/6/19.
+//  Created by  Nehemiah Israel a on 10/24/19.
 //  Copyright © 2019 Nehemiah Israel. All rights reserved.
 //
 
